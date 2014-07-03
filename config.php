@@ -19,3 +19,12 @@ define("LOCAL_MYSQL_USERNAME", 'root');
 define("LOCAL_MYSQL_PASSWORD", '12345');
 define("LOCAL_MYSQL_HOST", 'localhost');
 define("LOCAL_MYSQL_PORT", '');
+
+/**
+ * Google App Engine My SQL
+ */
+define("G_MYSQL_USERNAME", 'root');
+define("G_MYSQL_PASSWORD", '12345');
+define("G_MYSQL_HOST", 'localhost');
+define("G_MYSQL_PORT", '');
+
